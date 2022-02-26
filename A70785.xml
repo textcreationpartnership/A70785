@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition of the Major, Aldermen, and Common councell of the city of London together with His Majesties gracious answer thereunto.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70785</idno>
+            <idno type="STC">Wing P1818</idno>
+            <idno type="STC">ESTC R8120</idno>
+            <idno type="EEBO-CITATION">12194311</idno>
+            <idno type="OCLC">ocm 12194311</idno>
+            <idno type="VID">55967</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70785)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55967)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:59)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition of the Major, Aldermen, and Common councell of the city of London together with His Majesties gracious answer thereunto.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>London (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55967:1"/>
+            <p>A PETITION OF The Major, Aldermen, and Common Councell of the City of LONDON, To His Maieſtie.</p>
+            <p>Together with His Majeſties gracious <hi>Anſwer</hi> thereunto.</p>
+            <p>Anno Domini. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:55967:2"/>
+            <pb n="1" facs="tcp:55967:2"/>
+            <head>TO THE KINGS MOST EXCELLENT MAIESTIE. The humble Petition of the Major, Aldermen, and Com<g ref="char:EOLhyphen"/>mon-Councell, of the City of LONDON,</head>
+            <p>
+               <seg rend="decorInit">M</seg>Ay it pleaſe Your moſt excellent Majeſtie; the often expreſſions of your moſt gracious ac<g ref="char:EOLhyphen"/>ceptance of the manifeſtation of the Petitio<g ref="char:EOLhyphen"/>ners duty and loyalty, and the frequent decla<g ref="char:EOLhyphen"/>rations of your Majeſties great care of the good and welfare of this City, and of the true Proteſtant Religi<g ref="char:EOLhyphen"/>on, and of the protecting and preſerving the Perſons and Privileges of your great Councell aſſembled in the Court of Parliament: each encouraged the Petitioners to repreſent the great Dangers, Feares, and Diſtractions wherein the City now is, by reaſon of the prevailing progreſſe of the bloody Rebells in <hi>Ireland,</hi> fomented, and acted by the Pa<g ref="char:EOLhyphen"/>piſts and their adherents, and want of Aid to ſuppreſſe them, and the ſeverall intimations they have had both For<g ref="char:EOLhyphen"/>raign and at Home, of the driving on of their Deſignes, tending to the utter ruin of the Proteſtant Religion, and of the Lives &amp; Liberties of your Majeſties loyall Subjects, the putting out of Perſons of Honour and truſt from being Conſtable and Lievtenant of the Tower, eſpecially in theſe times, and the preparations there lately made, the fortify<g ref="char:EOLhyphen"/>ing of Whitehall with men and Munition in an unuſuall manner, Some of which men with provoking language and violence, abuſed divers Citizens paſſing by, and the drawing divers ſwords, and therwith wounding ſundry o<g ref="char:EOLhyphen"/>ther Citizens in Weſtminſter-Hall, that were unarmed: the
+<pb n="2" facs="tcp:55967:3"/> late endevours uſed to the Innes of Court, the calling in divers Canoniers, and other aſſiſtance into the Tower, the late diſcovery of divers fire-works in the hands of a Papiſt, and the miſunderſtanding betwixt Your Majeſtie and Par<g ref="char:EOLhyphen"/>liament, by reaſon of miſinformation, as they humbly con<g ref="char:EOLhyphen"/>ceive.</p>
+            <p>Beſides all which, the Petitioners feares are exceedingly encreaſed by your Majeſties late going into the Houſe of Commons attended with a great multitude of armed men beſides your ordinary Guard, for the apprehending of di<g ref="char:EOLhyphen"/>vers members of that Houſe, to the endangering of Your Sacred Perſon, and of the Perſons and Priviledges of that Honourable Aſſembly.</p>
+            <p>The effects of all which Feares tend, not only to the o<g ref="char:EOLhyphen"/>verthrow of the whole Trade of this City and Kingdome, which the Petitioners already feel in a deepe meaſure; but alſo threatens the utter ruine of the Proteſtant Religion, and the lives and Liberties of all Your Loyall Subjects.</p>
+            <p>The Petitioners therefore moſt Humbly pray Your Sa<g ref="char:EOLhyphen"/>cred Majeſtie, That by the advice of Your great Councell in Parliament, the Proteſtants in <hi>Ireland</hi> may be ſpeedily relieved, The Tower put into the hands of Perſons of truſt: That by removall of doubtfull and unknowne Perſons from about White-Hall and Weſtminſter, a knowne and approved Guard may be appointed for the ſafety of Your Majeſtie and Parliament, and that the Lord <hi>Mandevill</hi> and the five Members of the Houſe of Commons, lately accu<g ref="char:EOLhyphen"/>ſed, may not be reſtrained of libertie, or proceeded againſt, otherwiſe then according to the priviledges of Parliament.</p>
+            <closer>And the Petitioners (as in all duty bound) ſhall pray for Your Majeſties moſt long and happy Reign, &amp;c.</closer>
+         </div>
+         <div type="answer_to_petition">
+            <pb n="3" facs="tcp:55967:3"/>
+            <head>HIS MAIESTIES <hi>ANSWER</hi> To the Petition of the Major, Aldermen, and Common Councell of the City of LONDON.</head>
+            <p>
+               <seg rend="decorInit">H</seg>IS Majeſtie having fully conſidered the mat<g ref="char:EOLhyphen"/>ter of this Petition, Is graciouſly pleaſed to declare, that being unalterably reſolved to make good all His expreſſions and declarati<g ref="char:EOLhyphen"/>ons of His care of this City, Of the true Pro<g ref="char:EOLhyphen"/>teſtant Religion, and of the Priviledges of Parliament; His Majeſtie takes in good part, the intimation given by the Petitioners of the feares and diſtractions wherein the City now ſeemes to be. And though He conceives He did on Wedneſday at Guild Hall ſatisfie moſt of thoſe parti<g ref="char:EOLhyphen"/>culars, is pleaſed to adde this further Anſwer.</p>
+            <p n="1">1 That for the ſad buſineſſe of <hi>Ireland,</hi> His Majeſtie cannot poſſibly expreſſe a greater ſence then Hee hath done, there being nothing left on His Majeſties part un<g ref="char:EOLhyphen"/>offered or undone. And He hoped by the ſpeedy advice and aſſiſtance of His Parliament, that great and neceſſary Work would be put in a juſt forwardneſſe, to which His Majeſtie will contribute all his power: And how zealous He is and hath beene therein, will appeare in a Declarati<g ref="char:EOLhyphen"/>on ſpeedily to be ſet forth by His Majeſtie.</p>
+            <p n="2">2 For the Tower: His Majeſtie wonders, that ha<g ref="char:EOLhyphen"/>ving
+<pb n="4" facs="tcp:55967:4"/> removed a Servant of good Truſt and Reputation, from that Charge, onely to ſatisfie the feares of the City, and put in another of unqueſtionable Reputation, and knowne ability, the Petitioners ſhould ſtill entertain thoſe feares; and whatever preparation of ſtrength is there made, is with as great an Eye of ſafety and advantage to the City, as to his Majeſties own Perſon, and ſhall bee equally imployed to both.</p>
+            <p n="3">3 For the fortifying of White-Hall with Men and Mu<g ref="char:EOLhyphen"/>nition in an unuſuall way: His Majeſty doubts not, but the Petitioners have obſerved the ſtrange provocation He hath received to entertaine that Guard: That by the diſorder<g ref="char:EOLhyphen"/>ly and tumultuous conflux of people at Weſtminſter and White-Hall, his Majeſties great Councell was not only diſ<g ref="char:EOLhyphen"/>quieted, but his owne Royall Perſon in danger, moſt ſe<g ref="char:EOLhyphen"/>ditious language being uttered even under his own win<g ref="char:EOLhyphen"/>dowes, whileſt the examination and puniſhing ſuch Tu<g ref="char:EOLhyphen"/>mults by the courſe of Law were interrupted and ſtopped. And if any Citizens were wounded or ill intreated, his Ma<g ref="char:EOLhyphen"/>jeſty is confidently aſſured, that it hapned by their owne evill and corrupt demeanours.</p>
+            <p n="4">4 His Majeſtie knowes no other endeavours to the Innes of Court, then a gracious Intimation, That he recei<g ref="char:EOLhyphen"/>ved the tender of their loyall and dutifull Affections with very good Approbation and Acceptance, and an incou<g ref="char:EOLhyphen"/>ragement given them to continue the ſame upon all occa<g ref="char:EOLhyphen"/>ſions. Neither doth His Majeſty know, what diſcovery hath beene lately made of fire-workes in the hands of any Papiſt.</p>
+            <p n="5">5 For His going to the Houſe of Commons (when His attendants were no otherwiſe armed then as Gentlemen with Swords) His Majeſty is verily perſwaded, That if the Petitioners knew the clear grounds upon which thoſe per<g ref="char:EOLhyphen"/>ſons ſtand accuſed of high Treaſon, and what will be pro<g ref="char:EOLhyphen"/>ved
+<pb n="5" facs="tcp:55967:4"/> againſt them (which in due time they ſhall be acquain<g ref="char:EOLhyphen"/>ted with) and conſidered the gentle way his Majeſtie tooke for their apprehenſion (which Hee preferd before any courſe of violence, though that way had beene very juſti<g ref="char:EOLhyphen"/>fiable; for His Majeſtie is very well aſſured that it is noto<g ref="char:EOLhyphen"/>riouſly knowne, That no priviledge of Parliament can ex<g ref="char:EOLhyphen"/>tend to Treaſon, Felony, or breach of the Peace) the Pe<g ref="char:EOLhyphen"/>titioners would believe his Majeſties going thither was an Act of grace and favour to that Houſe, and the moſt peace<g ref="char:EOLhyphen"/>able way of having that neceſſary ſervice for the apprehen<g ref="char:EOLhyphen"/>ſion of thoſe perſons performed; ſpecially, if ſuch Orders have beene made (which his Majeſtie is not willing to be<g ref="char:EOLhyphen"/>lieve) for the reſiſtance of all lawfull Authority, as are diſcourſed of.</p>
+            <p n="6">6 And for the proceedings againſt thoſe perſons men<g ref="char:EOLhyphen"/>tioned in the Petition; his Majeſtie ever intended the ſame ſhould be with all juſtice and favour according to the Lawes and Statutes of the Realme; to the which all inno<g ref="char:EOLhyphen"/>cent men would cheerefully ſubmit.</p>
+            <p>And this extraordinary way of ſatisfying a Petition of ſo unuſuall a nature, his Majeſtie is confidently perſwaded, will be thought the greateſt inſtance can be given of his Majeſties clear intention to his Subjects, and of the ſingu<g ref="char:EOLhyphen"/>lar eſtimation He hath of the good affections of this City, which He believes in gratitude will never be wanting to His juſt Commands and Service.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
